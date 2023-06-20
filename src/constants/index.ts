@@ -70,7 +70,7 @@ export const feedback = [
   {
     id: 'feedback-2',
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      'Money makes your life easier. If you"re lucky to have it, you"re lucky.',
     name: 'Steve Mark',
     title: 'Founder & Leader',
     img: people02,
