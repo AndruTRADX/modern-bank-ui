@@ -7,12 +7,14 @@ import Testimonials from '@/components/Testimonials'
 import Clients from '@/components/Clients'
 import CTA from '@/components/CTA'
 import Footer from '@/components/Footer'
+import Billing from '@/components/Billing'
 
 export {
   Hero,
   Navbar,
   Stats,
   Bussiness,
+  Billing,
   CardDeal,
   Testimonials,
   Clients,
